@@ -7,6 +7,7 @@
    git clone <repo-url>
    cd <repo-name>
    git fetch origin
+   (sync 필요 할 수 있음)
    git switch main
    git pull origin main
    ```
